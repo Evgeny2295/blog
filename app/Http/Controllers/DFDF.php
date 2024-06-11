@@ -4,7 +4,8 @@ namespace App\Http\Controllers;
 
 class DFDF
 {
-    public function method1(){
 
+    public function method3(){
+       return 1;
     }
 }
